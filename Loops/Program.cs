@@ -19,7 +19,6 @@ namespace Loops
             Console.WriteLine(course5);
 
             //array
-
             string[] courses = new string[] { course1,
                 "Basic course for introductory programming",
                 "Java", "Python", course5 };
@@ -29,8 +28,8 @@ namespace Loops
             {
                 Console.WriteLine(courses[i]);
             }
-
             Console.WriteLine("For end");
+
 
             foreach (string course in courses)
             {

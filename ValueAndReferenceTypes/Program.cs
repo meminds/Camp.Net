@@ -22,8 +22,6 @@ namespace ValueAndReferenceTypes
             //numbers1[0] 999
             Console.WriteLine(numbers1[0]);
 
-
-
         }
     }
 }

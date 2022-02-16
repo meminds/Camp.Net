@@ -39,8 +39,6 @@ namespace KampIntro
             }
 
             Console.WriteLine(tagCategory);
-
-
         }
     }
 }
