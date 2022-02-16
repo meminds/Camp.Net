@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferenceTypes2", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefAndOut", "RefAndOut\RefAndOut.csproj", "{898DB0AE-ABF5-4589-B924-CBA98F2D52D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maths", "Maths\Maths.csproj", "{0431DC3A-B92E-4E34-AF57-45E3AAAC0500}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{898DB0AE-ABF5-4589-B924-CBA98F2D52D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{898DB0AE-ABF5-4589-B924-CBA98F2D52D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{898DB0AE-ABF5-4589-B924-CBA98F2D52D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0431DC3A-B92E-4E34-AF57-45E3AAAC0500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0431DC3A-B92E-4E34-AF57-45E3AAAC0500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0431DC3A-B92E-4E34-AF57-45E3AAAC0500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0431DC3A-B92E-4E34-AF57-45E3AAAC0500}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
