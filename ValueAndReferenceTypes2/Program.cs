@@ -31,7 +31,7 @@ namespace ValueAndReferenceTypes2
             personManager.Add(employee1);
         }
     }
-
+    
     class Person
     {
         public int Id { get; set; }
