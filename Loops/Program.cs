@@ -23,19 +23,16 @@ namespace Loops
                 "Basic course for introductory programming",
                 "Java", "Python", course5 };
 
-
             for (int i = 0; i < courses.Length; i++)
             {
                 Console.WriteLine(courses[i]);
             }
             Console.WriteLine("For end");
 
-
             foreach (string course in courses)
             {
                 Console.WriteLine(course);
             }
-
             Console.WriteLine("page break - footer");
         }
     }

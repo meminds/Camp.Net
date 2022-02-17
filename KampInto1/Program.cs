@@ -39,6 +39,8 @@ namespace KampIntro
             }
 
             Console.WriteLine(tagCategory);
+            Console.WriteLine(numberStudents);
+            Console.WriteLine(rateInterest);
         }
     }
 }
