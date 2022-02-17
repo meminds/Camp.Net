@@ -19,21 +19,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{9ACB43A9-33D8-467A-BA70-1063551CD9A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{57E17026-4A27-43A2-991E-65DC907EBD7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{57E17026-4A27-43A2-991E-65DC907EBD7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{E8043698-811C-430A-9821-B8A2E8AE0700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{E8043698-811C-430A-9821-B8A2E8AE0700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExample", "DictionaryExample\DictionaryExample.csproj", "{B1251651-6662-4A95-9491-79533BF2735A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryExample", "DictionaryExample\DictionaryExample.csproj", "{B1251651-6662-4A95-9491-79533BF2735A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{2A1EDEB3-1430-4138-B302-5ECFBD4E9661}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{2A1EDEB3-1430-4138-B302-5ECFBD4E9661}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExample", "ClassExample\ClassExample.csproj", "{5496AE9F-FD82-4A10-963C-3170BDF05849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassExample", "ClassExample\ClassExample.csproj", "{5496AE9F-FD82-4A10-963C-3170BDF05849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemo", "ClassDemo\ClassDemo.csproj", "{A887A609-F1CF-4BBC-B8BB-92704C21335E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassDemo", "ClassDemo\ClassDemo.csproj", "{A887A609-F1CF-4BBC-B8BB-92704C21335E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{620EE2C7-FE62-4C84-8124-9EF3E0DC3041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{620EE2C7-FE62-4C84-8124-9EF3E0DC3041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{4FEEF3FD-97C0-4E4D-AA78-495FDC09EA9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{4FEEF3FD-97C0-4E4D-AA78-495FDC09EA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{7BA6B2E3-E51A-49C0-8CC5-F80EE0D795BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{800C7972-197E-412D-AC64-AEDE46F01AA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{4FEEF3FD-97C0-4E4D-AA78-495FDC09EA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FEEF3FD-97C0-4E4D-AA78-495FDC09EA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FEEF3FD-97C0-4E4D-AA78-495FDC09EA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA6B2E3-E51A-49C0-8CC5-F80EE0D795BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA6B2E3-E51A-49C0-8CC5-F80EE0D795BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA6B2E3-E51A-49C0-8CC5-F80EE0D795BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA6B2E3-E51A-49C0-8CC5-F80EE0D795BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800C7972-197E-412D-AC64-AEDE46F01AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800C7972-197E-412D-AC64-AEDE46F01AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800C7972-197E-412D-AC64-AEDE46F01AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800C7972-197E-412D-AC64-AEDE46F01AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
