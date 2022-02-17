@@ -30,5 +30,6 @@ namespace RefAndOut
             number1 = 10;
             return number1 + number2;
         }
+
     }
 }

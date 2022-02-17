@@ -8,6 +8,7 @@ namespace ValueAndReferenceTypes2
         {
             Person person1 = new Person();
             Person person2 = new Person();
+
             person1.FirstName = "Ali";
             person2.FirstName = "Kemal";
             person2 = person1;
