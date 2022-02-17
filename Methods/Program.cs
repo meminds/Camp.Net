@@ -33,6 +33,7 @@ namespace Methods
             }
 
             BasketManager sepetManager = new BasketManager();
+
             sepetManager.Add(product1);
             sepetManager.Add(product2);
             sepetManager.Add(product3);

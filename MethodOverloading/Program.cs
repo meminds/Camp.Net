@@ -25,6 +25,5 @@ namespace MethodOverloading
         {
             return numbers.Sum();
         }
-
     }
 }
