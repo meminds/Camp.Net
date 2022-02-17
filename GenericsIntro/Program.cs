@@ -13,7 +13,6 @@ namespace GenericsIntro
             names.Add("Deniz");
             names.Add("Derya");
             names.Add("Kaptan");
-
             Console.WriteLine(names.Count);
         }
     }

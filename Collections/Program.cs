@@ -12,6 +12,7 @@ namespace Collections
             {
                 Console.WriteLine(name);
             }
+
             names.Add("Emin");
             Console.WriteLine(names[4]);
             Console.WriteLine(names[0]);
