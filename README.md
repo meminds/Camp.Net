@@ -1,4 +1,4 @@
-# KampIntro
+# Kodlama.io//KampIntro
 
 ### Kodlama.io / Yazılım geliştirici Kursu
 
